@@ -1,0 +1,4 @@
+{
+	"cmd": ["/Users/r622233/.rbenv/shims/ruby", "-c", "$file"],
+	"selector": "source.ruby"
+}

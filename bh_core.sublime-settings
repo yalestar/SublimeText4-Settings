@@ -1,0 +1,21 @@
+{
+    "debug_enable": true,
+    "user_bracket_styles": {
+        "default": {
+            "color": "region.orange",
+            "style": "stippled"
+        },
+        "regex": {
+            "color": "region.orange",
+            "style": "squiggly"
+        },
+        "tag": {
+            "color": "region.orange",
+            "style": "thin_underline"
+        },
+        "double_quote": {
+                "color": "region.bluish",
+                "style": "thin_underline",
+            }
+        }
+    }

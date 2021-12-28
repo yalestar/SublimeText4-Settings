@@ -1,0 +1,21 @@
+{
+	"clients":
+	{
+		"gopls":
+		{
+			"enabled": true,
+			"env": {
+				"PATH": "/usr/local/go/bin/:/Users/r622233/go/bin",
+			},
+			 "scopes":["source.go"],
+             "syntaxes": [
+                 "Packages/Go/Go.sublime-syntax",
+             ],
+             "settings": {
+                 "gopls.usePlaceholders": true,
+                 "gopls.completeUnimported": true,
+             },
+             "languageId": "go"
+		}
+	}
+}

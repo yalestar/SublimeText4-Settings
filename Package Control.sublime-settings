@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BeautifyRuby",
+		"BetterFindBuffer",
+		"BracketHighlighter",
+		"Case Conversion",
+		"Dockerfile Syntax Highlighting",
+		"Git",
+		"Golang Tools Integration",
+		"LSP",
+		"Package Control",
+		"SideBarEnhancements",
+		"Timestamp converter",
+		"Whitespace",
+		"ZSH",
+	],
+}
