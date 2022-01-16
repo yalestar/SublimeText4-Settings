@@ -10,12 +10,20 @@
 			 "scopes":["source.go"],
              "syntaxes": [
                  "Packages/Go/Go.sublime-syntax",
-             ],
+            ],
              "settings": {
                  "gopls.usePlaceholders": true,
                  "gopls.completeUnimported": true,
              },
-             "languageId": "go"
-		}
-	}
+             "lsp_format_on_save": true,
+             "languageId": "go",
+             // "diagnostics_highlight_style": {
+             //   	"error": "box",
+             //   	"warning": "squiggly",
+             //   	"info": "stippled",
+             //   	"hint": "stippled"
+             //   },
+             //   "diagnostics_gutter_marker": "sign",
+		},
+	},
 }

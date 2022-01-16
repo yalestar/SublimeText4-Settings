@@ -1,0 +1,6 @@
+<snippet>
+	<content>Rails.logger.info($1)</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>rli</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>

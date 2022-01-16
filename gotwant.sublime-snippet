@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+if got != want {
+  t.Errorf("got %v want %v", got, want)
+}
+]]></content>
+  <tabTrigger>tgw</tabTrigger>
+  <scope>source.go</scope>
+</snippet>

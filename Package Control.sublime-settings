@@ -12,6 +12,8 @@
 		"Dockerfile Syntax Highlighting",
 		"Git",
 		"Golang Tools Integration",
+		"GoToTest",
+		"JSON Reindent",
 		"LSP",
 		"Package Control",
 		"SideBarEnhancements",

@@ -87,7 +87,7 @@
 		"rcov"
 	],
 	"font_face": "IBM Plex Mono",
-	"font_size": 19.0,
+	"font_size": 16.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
