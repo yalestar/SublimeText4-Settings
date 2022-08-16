@@ -1,0 +1,6 @@
+<snippet>
+	<content>Rails.logger.info("Campaignerator_SQL: #{$1}") </content>
+
+	<tabTrigger>rdog</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>

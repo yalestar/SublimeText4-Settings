@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+w http.ResponseWriter, r *http.Request
+]]></content>
+  <tabTrigger>hhm</tabTrigger>
+  <scope>source.go</scope>
+</snippet>

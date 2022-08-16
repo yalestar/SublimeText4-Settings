@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+    log.Fatal($1)
+]]></content>
+  <tabTrigger>lf</tabTrigger>
+  <scope>source.go</scope>
+</snippet>

@@ -87,7 +87,7 @@
 		"rcov"
 	],
 	"font_face": "IBM Plex Mono",
-	"font_size": 16.0,
+	"font_size": 18.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -116,9 +116,12 @@
 		"Rust",
 		"ScopeHunter",
 		"SideBarTools",
-		"TCL",
+		"Six",
 		// "Vintage",
 		// "Vintageous_Plugin_Surround",
+		"TCL",
+		"Vintage",
+		"Vintageous",
 		"WordCount",
 	],
 	"indent_guide_options":
@@ -136,7 +139,8 @@
 	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"update_check": false,
-	"vintageous_use_ctrl_keys": true,
+	// "vintageous_use_ctrl_keys": true,
 	"word_wrap": "true",
 	"match_brackets": false,
+	"neovintageous_build_version": 11100,
 }

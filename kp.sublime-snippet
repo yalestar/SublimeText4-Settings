@@ -1,0 +1,6 @@
+<snippet>
+	<content>Kernel.puts </content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>kp</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>
